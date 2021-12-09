@@ -33,7 +33,7 @@ https://user-images.githubusercontent.com/58320980/145364134-86ed7ea0-7d02-4b26-
 
 ### ✔️ Youtube video thumbnail embed 
 
-[![Alt text](https://img.youtube.com/vi/w6jeKaQMyik/0.jpg)](https://www.youtube.com/watch?v=VID)
+[![Alt text](https://img.youtube.com/vi/w6jeKaQMyik/0.jpg)](https://www.youtube.com/watch?v=w6jeKaQMyik)
 
 
 ### ✔️ Embed GIF 

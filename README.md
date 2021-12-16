@@ -3,6 +3,8 @@
 ## testing for Communities
 
 Testing Images, gifs, mp4, CST sites
+
+12/16 watch count = 1
 <br />
 <br />
 
